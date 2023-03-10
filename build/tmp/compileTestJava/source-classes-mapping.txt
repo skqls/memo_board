@@ -1,4 +1,0 @@
-org/example/web/dto/HelloResponseDtoTest.java
- org.example.web.dto.HelloResponseDtoTest
-org/example/web/HelloControllerTest.java
- org.example.web.HelloControllerTest
