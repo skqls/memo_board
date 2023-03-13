@@ -40,4 +40,5 @@ dependencies {
     implementation("org.springframework.security:spring-security-test")
 
     implementation("org.mariadb.jdbc:mariadb-java-client")
+
 }
